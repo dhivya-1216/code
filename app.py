@@ -16,3 +16,7 @@ def arun_addition_operation(a,b):
 def main_addition(a,b):
     c=a+b
     return c
+
+def divya_testing(a,b):
+    c=a+b
+    return c
