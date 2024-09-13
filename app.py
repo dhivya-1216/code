@@ -20,3 +20,7 @@ def main_addition(a,b):
 def divya_testing(a,b):
     c=a+b
     return c
+
+def arun_testing(a,b):
+    c=a+b
+    return c
